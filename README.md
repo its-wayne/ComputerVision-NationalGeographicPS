@@ -12,7 +12,7 @@ Thank you all for making this happen!
 
 ## 🌊 Project Overview
 
-This completed project was developed in collaboration with the National Geographic Pristine Seas initiative to revolutionize how marine biodiversity is assessed. The Pristine Seas research team collects extensive deep-sea video footage—using baited underwater video systems, drop cameras, and submersibles—which traditionally required hours of manual review by researchers to document organisms.
+This completed project was developed in collaboration with the National Geographic Pristine Seas initiative to revolutionize how marine biodiversity is assessed. The Pristine Seas research team collects extensive deep-sea video footage using baited underwater video systems, drop cameras, and submersibles, which traditionally required hours of manual review by researchers to document organisms.
 
 By applying machine learning and data science principles, we were able to engineer an automated, unsupervised computer vision pipeline that processes raw underwater footage, detects marine life, and clusters visually similar species together. This system drastically reduces the time scientists spend on manual annotation while simultaneously extracting quantitative taxonomic data, such as identifying the maximum number of a given species observed in a single frame (MaxN).
 
