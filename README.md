@@ -7,7 +7,6 @@ I want to start off by crediting all of the contributors of this project:
 * **Luis Flores** – [@LuisF1238](https://github.com/LuisF1238)
 * **Lauren Henderson** – [@LaurenMaiH](https://github.com/LaurenMaiH)
 * **Waynstan Aung** – [@its-wayne](https://github.com/its-wayne)
-<br>
 Thank you all for making this happen!
 
 ## 🌊 Project Overview
@@ -35,4 +34,4 @@ While the feature extraction is autonomous, the final clustering workflow is man
 * **Interactive Frontend Interface:** To put the final control in the hands of the researchers, we designed an intuitive web application using **React** and **Tailwind CSS**. This UI allowed scientists to review the sequential clusters, empowering them to edit, create, or remove clusters at their will.
 
 ## Project Demo Video: 
-https://drive.google.com/file/d/1Aem_o-zYZ28ES1braV6HydOA8ZkIuO_J/view?usp=sharing
+[Video] (https://drive.google.com/file/d/1Aem_o-zYZ28ES1braV6HydOA8ZkIuO_J/view?usp=sharing) - Created by [@LaurenMaiH](https://github.com/LaurenMaiH)
